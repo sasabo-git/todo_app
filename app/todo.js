@@ -82,5 +82,4 @@ const app = new Vue({
   },
 })
 
-// mount
 app.$mount('.todoapp')
